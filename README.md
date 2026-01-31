@@ -1,10 +1,16 @@
-# 📦 Amazon Clone (Desktop View)
+# 📦 Amazon Clone (Responsive)
 
-A static clone of the Amazon homepage built using **HTML5** and **CSS3**. 
+A clone of the Amazon homepage UI built using **HTML5** and **CSS3**. 
 
 ## 🛠️ Tech Used
 * HTML5
-* CSS3 (Flexbox/Grid)
+* CSS3 (Flexbox & Grid)
+* Media Queries (for Responsiveness)
 
-## 📌 Development Note
-This project is currently optimized for **Desktop Screens**. I am currently learning Media Queries to make this responsive for mobile devices soon!
+## 📱 Features
+* **Fully Responsive:** Optimized for Desktop, Tablet, and Mobile screens.
+* **Navigation:** Responsive navbar that adjusts for smaller devices.
+* **Layout:** Grid-based product display that stacks on mobile.
+
+---
+*Built with ❤️ by Vishesh Dubey*
